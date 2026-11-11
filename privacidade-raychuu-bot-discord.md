@@ -36,7 +36,7 @@ Não compartilhamos, vendemos, alugamos ou trocamos seus dados com terceiros, ne
 
 ## Por quanto tempo armazenamos seus dados
 
-Tentamos remover seus dados quando identificamos um período de inatividade na Kaiya.
+Tentamos remover seus dados quando identificamos um período de inatividade na Raychuu.
 
 Você também pode solicitar a remoção dos seus dados entrando em nosso servidor de suporte e entrando em contato com a equipe responsável.
 
@@ -50,6 +50,5 @@ Se soubermos que coletamos ou recebemos dados de um menor de 13 anos sem o devid
 
 ## Meios de falar com nosso suporte
 
-Servidor: https://discord.gg/X5Bvfvqy9y
-
-Gmail: anonimatobrc@gmail.com
+🏡 Servidor: https://discord.gg/sP7tzn24ma
+📬 Gmail: anonimatobrc@gmail.com
