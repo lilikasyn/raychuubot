@@ -8,7 +8,7 @@ Queremos manter suas informações pessoais seguras. Nossa equipe leva isso muit
 
 ## Quais dados a Raychuu coleta
 
-Quando você interage com a Kaiya no Discord, coletamos o seguinte dado:
+Quando você interage com a Raychuu no Discord, coletamos o seguinte dado:
 
 > **ID do usuário**
 
