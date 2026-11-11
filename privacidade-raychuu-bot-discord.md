@@ -1,12 +1,12 @@
-# Sobre a Kaiya Bot
+# Sobre a Raychuu Bot
 
-Kaiya Bot é um bot de moderação e utilidades. Ela possui mensagens personalizadas e muito mais!
+Raychuu Bot é um bot de economia e diversão. Ela possui comandos únicos para seu servidor. 
 
 ## Política de Privacidade
 
 Queremos manter suas informações pessoais seguras. Nossa equipe leva isso muito a sério e trabalha para garantir a proteção e a privacidade de nossos usuários.
 
-## Quais dados a Kaiya coleta
+## Quais dados a Raychuu coleta
 
 Quando você interage com a Kaiya no Discord, coletamos o seguinte dado:
 
